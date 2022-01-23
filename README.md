@@ -13,12 +13,12 @@ This repository contains my self solved solutions of the assignment questions.
 |08. | [Strings](/08-strings) | 0/24 | 0/19 | 0/8 |
 |09. | [Patterns](/09-patterns) | 0/35 | - | - |
 |10. | [Recursion](/10-recursion) | 0/27 | 0/34 | 0/19 |
-|11. | [Bitwise](/11-bitwise) | 0/28 | 0/28 | 0/28 |
-|12. | [Math](/12-math) | 0/28 | 0/28 | 0/28 |
-|13. | [Complexities](/13-complexities) | 0/28 | 0/28 | 0/28 |
-|14. | [OOP](/14-oop) | 0/28 | 0/28 | 0/28 |
-|15. | [Linkedlist](/15-linkedlist) | 0/28 | 0/28 | 0/28 |
-|16. | [Stack-Queue](/16-stack-queue) | 0/28 | 0/28 | 0/28 |
+|11. | [Bitwise](/11-bitwise) | - | - | - |
+|12. | [Math](/12-math) | - | - | - |
+|13. | [Complexities](/13-complexities) | - | - | - |
+|14. | [OOP](/14-oop) | - | - | - |
+|15. | [Linkedlist](/15-linkedlist) | - | - | - |
+|16. | [Stack-Queue](/16-stack-queue) | - | - | - |
 
 
 
