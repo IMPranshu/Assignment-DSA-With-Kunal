@@ -4,7 +4,7 @@ This repository contains my self solved solutions of the assignment questions.
 | S.No. | Topic | Easy | Medium | Hard |
 |---|--------------|-----|-----|-----|
 |01. | [Flow-of-program](/01-flow-of-program) | 0/5 | -| - |
-|02. | [First-java](/02-first-java) | 0/28 | 0/28 | 0/28 |
+|02. | [First-java](/02-first-java) | 0/9 | - | - |
 |03. | [Conditionals-loops](/03-conditionals-loops) | 0/28 | 0/28 | 0/28 |
 |04. | [Functions](/04-functions) | 0/28 | 0/28 | 0/28 |
 |05. | [Arrays](/05-arrays) | 0/28 | 0/28 | 0/28 |
