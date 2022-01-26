@@ -12,7 +12,7 @@ This repository contains my self solved solutions of the assignment questions.
 |07. | [Sorting](/07-sorting) | 0/30 | 0/12 | 0/1 |
 |08. | [Strings](/08-strings) | 0/24 | 0/19 | 0/8 |
 |09. | [Patterns](/09-patterns) | 0/35 | - | - |
-|10. | [Recursion](/10-recursion) | 0/27 | 0/34 | 0/19 |
+|10. | [Recursion](/10-recursion) | 7/27 | 0/34 | 0/19 |
 |11. | [Bitwise](/11-bitwise) | - | - | - |
 |12. | [Math](/12-math) | - | - | - |
 |13. | [Complexities](/13-complexities) | - | - | - |
